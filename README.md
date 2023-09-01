@@ -1,7 +1,7 @@
 
 # MonkeyDoo
 
-A olidity Smart Contract for MonkeyDoo NFT Collection on Ethereum Classic
+A Solidity Smart Contract for MonkeyDoo NFT Collection on Ethereum Classic
 
 ## Getting Started
 
